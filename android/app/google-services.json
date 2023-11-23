@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "359347542118",
+    "project_id": "volkanprojem",
+    "storage_bucket": "volkanprojem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359347542118:android:c16dd84ed84b60ea9735a7",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359347542118-gpcj4glqo54llqabjicpleqe4vlpc2ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXrFTd48_G5NZncxA0ASe0hTEc5bjU5uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359347542118-gpcj4glqo54llqabjicpleqe4vlpc2ra.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "359347542118-q16an4pc71190986b19nq6h8kav045b4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.untitled"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
